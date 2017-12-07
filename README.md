@@ -8,5 +8,6 @@ npm install && npm start
 
 ## Usage
 
-Click throught the cells to give initial cells a life and click Run
+Click throught the cells to make initial cells live and click Run
+
 Click stop to reset
